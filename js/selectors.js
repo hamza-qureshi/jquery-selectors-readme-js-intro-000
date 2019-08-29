@@ -7,8 +7,8 @@ function lastImageSelector () {
   return $('img:last')
 }
 
-functoin ninjaBabySelector (){
+function ninjaBabySelector (){
   return $('#baby-ninja')
 }
 
-function 
+ 
